@@ -1,13 +1,12 @@
-<<<<<<< HEAD
 ## San Abdul
 
 ## Tecnologia a usar
 
-    -React js
-=======
-## san-abdul
+  -React js
+
   oracion sobre la scesi no se me ocurre nada :,c F
->>>>>>> eb50464311a43a7e2cbfa00f92d21a9306824cc1
+
+oracion sobre la scesi no se me ocurre nada :,c F
 
 ## Available Scripts
 
@@ -76,4 +75,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-El proposito de la pagina es el expresar la admiracion por san Abdul y tambien el divulgar su religion 
+No se que tecnologias se utilizaran, pero se que estaran bien chingonas, no tengo pruebas pero tampoco dudas.
+El proposito de la pagina es el expresar la admiracion por san Abdul y tambien el divulgar su religion
