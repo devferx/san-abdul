@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## san-abdul
+
+oracion sobre la scesi no se me ocurre nada :,c F
 
 ## Available Scripts
 
@@ -68,3 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 No se que tecnologias se utilizaran, pero se que estaran bien chingonas, no tengo pruebas pero tampoco dudas.
+El proposito de la pagina es el expresar la admiracion por san Abdul y tambien el divulgar su religion
