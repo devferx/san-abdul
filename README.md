@@ -69,4 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-El proposito de la pagina es el expresar la admiracion por san Abdul y tambien el divulgar su religion 
+No se que tecnologias se utilizaran, pero se que estaran bien chingonas, no tengo pruebas pero tampoco dudas.
+El proposito de la pagina es el expresar la admiracion por san Abdul y tambien el divulgar su religion
