@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 ## San Abdul
 
 ## Tecnologia a usar
 
     -React js
+=======
+## san-abdul
+  oracion sobre la scesi no se me ocurre nada :,c F
+>>>>>>> eb50464311a43a7e2cbfa00f92d21a9306824cc1
 
 ## Available Scripts
 
