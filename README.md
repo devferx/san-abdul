@@ -4,8 +4,6 @@
 
   -React js
 
-  oracion sobre la scesi no se me ocurre nada :,c F
-
 oracion sobre la scesi no se me ocurre nada :,c F
 
 ## Available Scripts
