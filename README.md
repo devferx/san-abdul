@@ -1,5 +1,9 @@
 ## San Abdul
 
+## Tecnologia a usar
+
+    -React js
+
 ## Available Scripts
 
 In the project directory, you can run:
